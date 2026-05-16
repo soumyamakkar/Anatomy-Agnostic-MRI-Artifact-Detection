@@ -2,21 +2,21 @@
 
 ## Project Information
 
-**Author:** Soumya Makkar
-**Roll Number:** 2210992401
-**Project Type:** Research Paper
-**Team:** Individual Research Project
+**Author:** Soumya Makkar  
+**Roll Number:** 2210992401  
+**Project Type:** Research Paper  
+**Team:** Individual Research Project  
 
 ---
 
 ## Conference Submission Status
 
-**Status:** Submitted to Conference
-**Conference:** 2026 IEEE 5th World Conference on Applied Intelligence and Computing (AIC2026)
-**Paper ID:** 3595
-**Submission Date:** May 16, 2026
-**Primary Subject Area:** Machine Vision
-**Secondary Subject Area:** Computational Intelligence
+**Status:** Submitted to Conference  
+**Conference:** 2026 IEEE 5th World Conference on Applied Intelligence and Computing (AIC2026)  
+**Paper ID:** 3595  
+**Submission Date:** May 16, 2026  
+**Primary Subject Area:** Machine Vision  
+**Secondary Subject Area:** Computational Intelligence  
 
 ---
 
